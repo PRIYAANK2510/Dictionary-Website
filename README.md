@@ -25,8 +25,10 @@ Users should be able to:
 
 ### Screenshot
 - Dark Mode
+
 ![Screenshot Dark](https://raw.githubusercontent.com/PRIYAANK2510/Dictionary-Website/main/Screenshot(dark).jpg)
 - Light Mode
+
 ![Screenshot Light](https://raw.githubusercontent.com/PRIYAANK2510/Dictionary-Website/main/Screenshot(light).jpg)
 
 ### Links
